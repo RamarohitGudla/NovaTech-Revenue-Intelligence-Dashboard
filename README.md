@@ -145,25 +145,17 @@ These features allow users to explore the data and investigate specific campaign
 
 The complete three-view dashboard is available in the **Dashboard** folder.
 
-📄 [View Dashboard PDF](Dashboard/NovaTech-Revenue-Intelligence-Dashboard.pdf)
-
 ### Executive Report
 
 The Executive Report summarizes the project from a business perspective, including the dashboard design, insights, and recommended actions.
-
-📄 [View Executive Report](Documentation/Executive-Report.pdf)
 
 ### Q Exploration Log
 
 The Q Exploration Log documents the questions asked before and after QuickSight Q Topic configuration and compares the responses.
 
-🖼️ [View Q Exploration Log](Documentation/Q-Exploration-Log-Before-After.png)
-
 ### Verification Log
 
 The Verification Log documents the verification of QuickSight Q results against the dashboard and expected results.
-
-🖼️ [View Verification Log](Documentation/Verification-Log.png)
 
 ---
 
