@@ -185,4 +185,4 @@ It helps business users:
 **NovaTech Revenue Intelligence Dashboard**
 
 **Platform:** Amazon QuickSight  
-**Program:** AWS AI & ML Nanodegree
+**Program:** Future AWS Agentic AI Business Professional Nanodegree
