@@ -1,4 +1,4 @@
-# NovaTech Revenue Intelligence 
+# NovaTech Revenue Intelligence Dashboard
 
 ## 📊 Project Overview
 
