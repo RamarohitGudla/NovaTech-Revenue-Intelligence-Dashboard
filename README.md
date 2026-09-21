@@ -1,6 +1,6 @@
 # NovaTech Revenue Intelligence Dashboard
 
-## 📊 
+## 📊 Project
 
 The **NovaTech Revenue Intelligence Dashboard** is a Business Intelligence project developed using **Amazon QuickSight**.
 
